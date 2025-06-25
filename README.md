@@ -1,2 +1,2 @@
-# DATA301-Final-Project
-Introduction to Data Analysis
+# DATA 301: Introduction to Data Analysis
+Final project
